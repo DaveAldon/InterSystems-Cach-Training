@@ -1,6 +1,6 @@
 Class User.Main Extends %Persistent
 {
-	Property P1 As %String;
+	Property P1 As %Integer;
 Storage Default
 {
 <Data name="MainDefaultData">
