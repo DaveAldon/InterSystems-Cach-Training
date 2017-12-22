@@ -1,6 +1,7 @@
 Class User.Main Extends %Persistent
 {
 	Property P1 As %String;
+	Property P2 As %String;
 Storage Default
 {
 <Data name="MainDefaultData">
@@ -9,6 +10,9 @@ Storage Default
 </Value>
 <Value name="2">
 <Value>P1</Value>
+</Value>
+<Value name="3">
+<Value>P2</Value>
 </Value>
 </Data>
 <DataLocation>^User.MainD</DataLocation>
