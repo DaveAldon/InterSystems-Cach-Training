@@ -1,5 +1,6 @@
 Class User.Main Extends %Persistent
 {
+	/// Documentation git test
 	Property P1 As %String;
 	Property P2 As %String;
 Storage Default
