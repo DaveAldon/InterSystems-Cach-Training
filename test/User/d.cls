@@ -1,6 +1,6 @@
 Class User.d Extends %Persistent
 {
-/// David test??
+/// Dave
 Storage Default
 {
 <Data name="dDefaultData">
@@ -11,7 +11,7 @@ Storage Default
 <DataLocation>^User.dD</DataLocation>
 <DefaultData>dDefaultData</DefaultData>
 <Description>
-<![CDATA[David test??]]></Description>
+<![CDATA[Dave]]></Description>
 <IdLocation>^User.dD</IdLocation>
 <IndexLocation>^User.dI</IndexLocation>
 <StreamLocation>^User.dS</StreamLocation>
