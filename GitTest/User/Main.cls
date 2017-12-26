@@ -1,9 +1,10 @@
 Class User.Main Extends %Persistent
 {
-	/// Documentation git test
-	/// Dev credit
+	/// Something something dark side
 	Property P1 As %String;
-	Property P2 As %String;
+
+	/// hmm
+	Property X as %String;
 Storage Default
 {
 <Data name="MainDefaultData">
@@ -15,6 +16,9 @@ Storage Default
 </Value>
 <Value name="3">
 <Value>P2</Value>
+</Value>
+<Value name="4">
+<Value>X</Value>
 </Value>
 </Data>
 <DataLocation>^User.MainD</DataLocation>
